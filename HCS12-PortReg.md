@@ -1,6 +1,6 @@
 # HCS12 Port Register Labels and Memory
 
-*Port* | *Label* | *Memory Address*
+Port   | Label   | Memory Address
 -------|---------|------------------
    A   |  PORTA  |    $00
    B   |  PORTB  |    $01
